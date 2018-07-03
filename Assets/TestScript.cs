@@ -8,6 +8,7 @@ public class TestScript : MonoBehaviour {
 	void Start () {
         print("You find the sausage");
         print("\nNew line just for checking");
+        print("Adding another line as something");
 	}
 	
 	// Update is called once per frame
