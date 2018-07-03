@@ -7,6 +7,7 @@ public class TestScript : MonoBehaviour {
 	// Use this for initialization
 	void Start () {
         print("You find the sausage");
+        print("\nNew line just for checking");
 	}
 	
 	// Update is called once per frame
